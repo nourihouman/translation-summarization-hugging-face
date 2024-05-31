@@ -45,6 +45,7 @@ This project demonstrates text translation and summarization using Hugging Face'
 
 ## Models Used
 Translation Model: facebook/nllb-200-distilled-600M
+
 Summarization Model: facebook/bart-large-cnn
 
 ## Usage
