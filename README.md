@@ -42,6 +42,11 @@ This project demonstrates text translation and summarization using Hugging Face'
     pip install -r requirements.txt
     ```
 
+
+## Models Used
+Translation Model: facebook/nllb-200-distilled-600M
+Summarization Model: facebook/bart-large-cnn
+
 ## Usage
 
 ### Translation
